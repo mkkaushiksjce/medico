@@ -1,10 +1,10 @@
-import React, {useState, useRef} from 'react';
+import React from 'react';
 
 function LandingPage (props) {
 
     return(
         <div>
-            Mayaskara
+            Mayaskara Landing Page
         </div>
     )
 
